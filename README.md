@@ -49,7 +49,7 @@
 
 
 
-- The script will be added to the amin camera component.
+- The script will be added to the main camera component.
 
 ![image](https://user-images.githubusercontent.com/101527504/234135615-e874523e-578a-4e68-b73b-b986a92e8abf.png)
 
