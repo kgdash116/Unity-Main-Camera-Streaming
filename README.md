@@ -60,6 +60,9 @@
 
 - Open `tp_python_api` as a project in PyCharm or any other IDE.
 - Select Python 3.9 as the Python Interpreter.
+
+![image](https://user-images.githubusercontent.com/101527504/234138232-aba0c1fb-6d83-4754-b284-f95ea807b25c.png)
+
 - From the Project menu on the left, where all the files and folders are displayed navigate to the test folder, inside the test    folder, navigate to the server folder and run `run_server.py` to start the server.
 
 ![image](https://user-images.githubusercontent.com/101527504/234135821-28854470-04b5-44ed-8bbb-e8c41a7335d8.png)
