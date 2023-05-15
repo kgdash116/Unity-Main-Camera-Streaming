@@ -76,7 +76,7 @@
 
 ![image](https://user-images.githubusercontent.com/101527504/234135968-7d25296d-9fa2-4c07-851c-39a41c31fa43.png)
 
-- If the conncection is valid, a 200 status repsonse code will be generated in the python console.
+- If the connection is valid, a 200 status respsonse code will be generated in the python console.
 
 ![image](https://user-images.githubusercontent.com/101527504/234136060-a8d2469d-fc53-469a-ab44-bc2de3f21223.png)
 
